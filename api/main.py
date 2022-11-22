@@ -1,4 +1,7 @@
 # this is for api "Backend"
+
+#Round Robin
+
 def waitingTime(process, wt, quantum):
 	n=len(process)
 	rt=[0]*n
@@ -62,3 +65,8 @@ def display(process, wt, tat, avg_wt, avg_tat):
 
 	print('\nAverage Waiting Time: ', avg_wt)
 	print('Average Turn Around: ', avg_tat)
+
+
+
+
+if __name__=='__main__':
