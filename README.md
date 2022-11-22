@@ -5,4 +5,4 @@ A Python based web application which helps user Visualize various Scheduling alg
   3. Shortest Job First
   4. Priority-Preemtive
   5. Priority-Non-Preemtive
-It will help users in visualizing how scheduling works for various algorithms.
+  It will help users in visualizing how scheduling works for various algorithms.
