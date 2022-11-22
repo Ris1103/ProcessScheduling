@@ -73,4 +73,4 @@ def display(process, wt, tat, avg_wt, avg_tat):
 
 
 
-if __name__=='__main__':
+#if __name__=='__main__':
